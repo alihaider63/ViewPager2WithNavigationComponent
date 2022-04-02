@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ViewPager2WithNavigationComponent</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="splash_screen">Splash Screen</string>
+    <string name="fresh_food">Fresh Food</string>
+    <string name="description">The research on longevity and mortality is oddly silent on the subject of water consumption.</string>
+    <string name="fast_delivery">Fast Delivery</string>
+    <string name="easy_payment">Easy Payment</string>
+    <string name="next">Next</string>
+    <string name="finish">Finish</string>
+</resources>
